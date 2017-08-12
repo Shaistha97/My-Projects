@@ -1,0 +1,326 @@
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<title>Food</title>
+			<link href="bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" rel="stylesheet">
+			<link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+			<link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+			<link rel="stylesheet" type="text/css" href="style.css">
+
+		</head>
+		<body>
+			<header>
+				<div class="row">
+					<div class="logo">
+						<img src="9.png">
+					</div>
+					<ul class="main-nav">
+						<li><a href="fd.html">FOOD DELIVERY </a></li>
+						<li><a href="fo.html">FOOD ORDERS </a></li>
+						<li><a href="t.html">TESTIMONIALS </a></li>
+						<li><a href="o.html">OUR CITIES </a></li>
+						<li><a href="s.html">SERVICE </a></li>
+					</ul>	
+				</div>
+				<div class="hero">
+					<h1>Let's Dine <br>And be Happy:-)</h1>
+						<div class="awesome">
+							<a href="" class="btn btn-a"><b>Show me more</b></a>
+			       			<a href="" class="btn btn-b"><b>I am hungry !</b></a>
+					    </div>
+				</div>	
+			</header>
+
+			<section class="features">
+				<h3 class="text-center"> GET FAST NOT THE FAST FOOD </h3>
+				<p class="copy">
+					Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+				</p>	
+
+			
+			<div class="container">
+				<div class="row">
+				<div class="col-md-3">
+				  <i class="fa fa-certificate"></i>
+				<h4> Have healthy meals</h4>
+				<p class="arranging">
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+				</p>
+				</div>	
+
+				<div class="col-md-3">
+				 <i class="fa fa-camera"></i>
+				<h4> Have healthy meals</h4>
+				<p class="arranging">
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+				</p>
+				</div>	
+
+				<div class="col-md-3">
+				  <i class="fa fa-envelope"></i>
+				<h4> Have healthy meals</h4>
+				<p class="arranging">
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+				</p>
+				</div>	
+
+				<div class="col-md-3">
+				  <i class="fa fa-cog"></i>
+				<h4> Have healthy meals</h4>
+				<p class="arranging">
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
+				</p>
+				</div>	
+				</div>
+			</div>
+			</section>
+
+			<section class="meal">
+			<ul class="meal-showcase clearfix">
+				<li>
+				<figure class="meal-photo">
+					<img src="a.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="b.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="c.jpg">
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="d.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="e.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="f.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="g.jpg">
+				</figure>
+				</li>
+
+				<li>
+				<figure class="meal-photo">
+					<img src="h.jpg">
+				</figure>
+				</li>
+
+			</ul>
+				 
+			</section>
+
+			<section class="mobile">
+			 <h3 class="text-center">How It Works</h3>
+			 <div class="row">
+			 	<div class="col-md-6">
+			 	<div class="pic">
+			 		<img src="mob.png">
+			 	</div>	
+			 	</div>
+			 	<div class="col-md-6">
+					<div class="works-step">
+						<div>1</div>
+						<p>
+							hi im shaistha ...life is awesome
+							hi im shaistha ...life is awesome
+						</p>
+
+						<div>2</div>
+						<p>
+							hi im shaistha ...life is awesome
+							hi im shaistha ...life is awesome
+						</p>
+
+						<div>3</div>
+						<p>
+							hi im shaistha ...life is awesome
+							hi im shaistha ...life is awesome
+						</p>
+						<a href=""><img src="app.png"></a>
+						<a href=""><img src="abc.png"></a>
+
+					</div>			 		
+			 	</div>
+			 </div>
+				</section>
+
+				<section class="cities">
+					<h3 class="text-center">WE ARE CURRENTLY IN THESE CITIES</h3>
+					<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							<img src="LB.jpg">
+							 <h4>London </h4>
+							<p> <i class="fa fa-cog"></i> 1000 + Happy Customers </p>
+							<p> <i class="fa fa-cog"></i>  80+ Top Chefs</p>
+							<p> <i class="fa fa-cog"></i> <u>omnifood_london</u></p>
+						</div> 
+						<div class="col-md-3">
+							<img src="n.jpg">
+							 <h4>New York </h4>
+							<p> <i class="fa fa-person"></i> 1600+ Happy Customers </p>
+							<p> <i class="fa fa-star"></i> 60+ Top Chefs</ p>
+							<p> <i class="fa fa-twitter"></i> <u>omnifood_nyc</u></p>
+						</div> 
+						<div class="col-md-3">
+							<img src="veni.jpg">
+							 <h4>Venice</h4>
+							<p> <i class="fa fa-cog"></i> 3700+ Happy Customers </p>
+							<p> <i class="fa fa-cog"></i> 160+ Top Chefs</ p>
+							<p> <i class="fa fa-cog"></i> <u>omnifood_venice</u> </p>
+						</div> 
+						<div class="col-md-3">
+							<img src="p.jpg">
+							 <h4>Paris</h4>
+							<p> <i class="fa fa-cog"></i> 1700+ Happy Customers </p>
+							<p> <i class="fa fa-cog"></i> 200+ Top Chefs</p>
+							<p> <i class="fa fa-cog"></i> <u>omnifood_paris</u></p>
+						</div> 
+					</div> 
+					</div>
+
+
+				</section>
+
+				<section class="testimonials">
+				<h3 class="text-center"> OUR CUSTOMERS CAN'T LIVE WITHOUT US :-) </h3>
+				<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+					
+
+							<p>
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							
+							</p>
+						<cite ><img src="12.jpg"> Shaistha</cite>
+						
+						</div>	
+						<div class="col-md-4">
+						
+							<p>
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							
+							</p>
+						<cite>  <img src="12.jpg">Fahima</cite>
+						</blockquote>
+						</div>
+						<div class="col-md-4">
+						
+							<p>
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							Whos is such a man to go mad
+							
+
+							</p>
+						<cite><img src="12.jpg">Abdul</cite>
+						
+					</div>
+					</div>
+
+
+				</div>
+					
+				</section>   
+
+				
+				<section class="form">
+					<div class="container">
+						<h3 class="text-center">WE WILL BE HAPPY TO HEAR FROM YOU </h3>
+						</div>
+						<div class="row gap">
+							<div class="col-md-4">
+								<input type="text" placeholder="Username" class="form-control"><br>
+								<input type="text" placeholder="Email" class="form-control"><br>
+								<input type="text" placeholder="Password" class="form-control">
+							</div>
+							<div class="col-md-8">
+								<textarea class="form-control" rows="8" placeholder="Comments"></textarea>
+								<button class="btn btn-warning btn-block">Submit</button>
+							</div>
+						 
+					</div>
+				</section>
+
+				<footer>
+					<div class="wrapper">
+					<div class="container">
+					<div class="row"></div>
+						<div class="social">
+						<h3 class="text-center">STAY CONNECTED</h3>
+						<a class="youtube" href="http://youtube.com">
+						<img src="y.png" class="cool">
+						</a>
+
+						<a class="facebook" href="http://facebook.com">
+						<img src="f.png" class="cool">
+						</a>
+
+						<a class="twitter" href="http://twitter.com">
+						<img src="t.png" class="cool">
+						</a>
+						</div>
+
+						
+					<div class="bottom-footer">
+						<div class="col-md-5" > @Copyright MyBerkelyKitchen 2000.</div>
+						<div class="col-md-7">
+							<ul class="footer-nav">
+								<li><a href="in.html">Home</a></li>
+								<li><a href="blo.html">Blog</a></li>
+								<li><a href="contact.html">Contact</a></li>
+								<li><a href="link.html">Link</a></li>
+							</ul>
+						</div>
+
+					</div>
+					</div>
+					</div>
+				</footer>
+		</body>
+		</html>
