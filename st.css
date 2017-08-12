@@ -1,0 +1,122 @@
+*
+{
+	margin: 0 ;
+
+}
+body,html
+{
+	height: 100%;
+}
+
+#logo
+{
+	float: left; 
+	height: 160px;
+	margin-top: 20px;
+	left: 50px;
+	position: absolute;
+
+}
+
+#dnv
+{
+	float: right; 
+	height: 160px;
+	margin-top: 15px;
+	right: 50px;
+	position: absolute;
+
+}
+
+
+img
+{
+	background-image: url("2.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1
+{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	top: 20px; 
+	font-family: ;
+}
+
+h2
+{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	top: 75px;
+}
+
+#main-wrapper 
+{
+	width: 500px;
+	height: 440px;
+	background: white;
+	margin: 0 auto;
+	padding:5px;
+	left: 350px;
+	position: absolute;
+	top: 155px;
+	border: 2px solid #2c3e50;
+	border-radius: 25px;
+}
+
+.avatar
+{
+	width: 120px;
+	text-align: center;
+	border-radius: 50%;
+	top: 100px;
+
+}
+
+.myform
+{
+	width: 450px;
+	margin: 0 auto;
+
+}
+
+.inputvalues
+{
+	width: 430px;
+	margin: 5px;
+	padding: 5px;
+}
+
+#login_btn
+{
+	margin-top: 10px;
+	background-color: #e67e22;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	transition: all 0.5s ease-in;
+
+}
+
+#login_btn:hover
+{
+	background-color: #27ae60;
+	color: white;
+	transition: all 0.3s ease-in;
+}
+
+#footer
+{
+	position: absolute;
+	top: 650px;
+	left: 10px;
+	text-align: left;
+}
